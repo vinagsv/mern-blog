@@ -21,7 +21,7 @@ This is a MERN stack project for an Blog posting application. Follow the instruc
 ` nodemon seed.js `  run only once to seed admin user
 
 ### Client Setup
-` cd path/to/frontend `
+` cd path/to/client `
 ` npm install `
 ` npm run dev `
 
